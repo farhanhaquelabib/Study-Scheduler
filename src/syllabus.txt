@@ -1,0 +1,107 @@
+Physics 1st Paper:
+    1(Physical World and Measurement)
+    2(Vectors)
+    3(Dynamics)
+    4(Newtonian Mechanics)
+    5(Work, Energy and Power)
+    6(Gravitation and Gravity)
+    7(Structural Properties of Matter)
+    8(Periodic Motion)
+    9(Waves)
+    10(Ideal Gas and Kinetic Theory of Gases)
+
+Physics 2nd Paper:
+    1(Thermodynamics)
+    2(Static Electricity)
+    3(Current Electricity)
+    4(Magnetic Effects of Electric Current and Magnetism)
+    5(Electromagnetic Induction and Alternating Current) 
+    6(Geometrical Optics)
+    7(Physical Optics)
+    8(Introduction to Modern Physics)
+    9(Atomic Model and Nuclear Physics)
+    10(Semiconductor and Electronics)
+    11(Astronomy)
+
+Chemistry 1st Paper:
+    1(Safe Use of Laboratory)
+    2(Quantitative Chemistry)
+    3(Periodic Properties of Elements and Chemical Bonding)
+    4(Chemical Changes)
+    5(Application Oriented Chemistry)
+
+Chemistry 2nd Paper:
+    1(Environmental Chemistry)
+    2(Organic Chemistry)
+    3(Quantitative Chemistry)
+    4(Electro Chemistry)
+    5(Economic Chemistry)
+
+Higher Math 1st Paper:   
+    1(Matrices and Determinants)
+    2(Vector)
+    3(Straight Lines)
+    4(The Circle)
+    5(Permutations and Combinations)
+    6(Trigonometric Ratios)
+    7(Trigonometric Ratios of Associated Angles)
+    8(Functions and Graph of Functions)
+    9(Differentiation)
+    10(Integration)
+
+Higher Math 2nd Paper:
+    1(Real Numbers and Inequalities)
+    2(Linear Programming)
+    3(Complex Numbers)
+    4(Polynomials and Polynomial Equations)
+    5(Binomial Expansions)
+    6(Conics)
+    7(Inverse Trigonometric Functions and Trigonometric Equations)
+    8(Statics)
+    9(Motion of Particles in a Plane)
+    10(Measures of Dispersions and Probabiity)
+
+Biology 1st Paper:
+    1(Cell and Its Structure)
+    2(Cell Division)
+    3(Cell Chemistry)
+    4(Micro-organism/Microbe)
+    5(Algae and Fungi)
+    6(Bryophyta and Pteridophyta)
+    7(Gymnosperms and Angiosperms)
+    8(Tissue and Tissue System)
+    9(Plant Physiology)
+    10(Plant Reproduction)
+    11(Biotechnology)
+    12(Environment, Distribution and Conservation of Living Organisms)
+
+Biology 2nd Paper: 
+    1(Animal Diversity and Classification)
+    2(Animal Identity)
+    3(Digestion and Absorption)
+    4(Blood Circulation)
+    5(Respiration and Breathing)
+    6(Wastes and Elimination)
+    7(Locomotion and Movement)
+    8(Coordination and Control)
+    9(Continuation of Human Life)
+    10(Protection of Human Body(Immunity))
+    11(Genetics and Evolution)
+    12(Animal Behavior)
+
+
+Bangla 1st:
+
+Bangla 2nd:
+
+English 1st:
+
+English 2nd:
+
+ICT:
+1(Introduction to ICT)
+2(Communication Systems)
+3(Number System)
+4(HTML)
+5(C programming)
+6(Database)
