@@ -33,12 +33,12 @@ review or printing.
 
 ### 1️⃣ Compile
 
-    javac -d out -cp src src/studyplanner/StudyPlanner.java
+    javac -d out -cp src src/StudyPlannerMain.java
+
 
 ### 2️⃣ Run
 
-    java -cp out studyplanner.StudyPlanner
-
+    java -cp out StudyPlannerMain
 
 ## 📝 Syllabus File Format
 
